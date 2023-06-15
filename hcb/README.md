@@ -1,6 +1,3 @@
-Data import
-Data vas validated and filtered with Python(Pandas).
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
